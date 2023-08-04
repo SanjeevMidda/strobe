@@ -1,0 +1,9 @@
+* {
+  margin: 0px;
+  transition: all 1s;
+}
+
+.App {
+  height: 100dvh;
+  background-color: grey;
+}
